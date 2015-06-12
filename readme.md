@@ -1,5 +1,4 @@
 # Craft Didread
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/creativeorange/craft-didread/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 A plugin to add some sort of inbox-functionality to Craft CMS.
 
